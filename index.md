@@ -16,8 +16,8 @@ keywords: Surface Processes, Landscape Evolution, Geomorphology
 </div>
 
 
-<img src="publpics/mauiDem.gif" alt = "Maui Gif" title = "West Maui" class="centerImage"/>
-
+<p style="text-align:center;"><img src="publpics/mauiDem.gif" alt = "Maui Gif" title = "West Maui" class="centerImage"/>
+</p>
 <!--
 <table class="wide">
 <tr>
