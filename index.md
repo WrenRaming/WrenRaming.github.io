@@ -10,6 +10,7 @@ keywords: Surface Processes, Landscape Evolution, Geomorphology
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/WrenRaming_CV.pdf">Curriculum Vitae</a></li>
           <li><a href="https://scholar.google.com/citations?user=xRp1QZUAAAAJ&hl=en">Google Scholar</a></li>
+           <li><a href="https://www.linkedin.com/in/wren-raming-5920091a2/">LinkedIn</a></li>
           <li><a href="https://twitter.com/WrenRaming">@WrenRaming</a></li>
       </ul>
   </div>
