@@ -9,8 +9,6 @@ keywords: Surface Processes, Landscape Evolution, Geomorphology
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/WrenRaming_CV.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
           <li><a href="https://twitter.com/WrenRaming">@WrenRaming</a></li>
       </ul>
   </div>
@@ -44,6 +42,7 @@ keywords: Surface Processes, Landscape Evolution, Geomorphology
 </tr>
 </table>
 
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -51,3 +50,4 @@ keywords: Surface Processes, Landscape Evolution, Geomorphology
       </ul>
   </div>
 </div>
+-->
