@@ -14,6 +14,10 @@ keywords: Surface Processes, Landscape Evolution, Geomorphology
   </div>
 </div>
 
+
+<img src="publpics/mauiDEM.gif" alt = "Maui Gif" title = "West Maui"/>
+
+<!--
 <table class="wide">
 <tr>
   <td class="left">
@@ -41,6 +45,7 @@ keywords: Surface Processes, Landscape Evolution, Geomorphology
   </td>
 </tr>
 </table>
+-->
 
 <!--
 <div class="navbar">
