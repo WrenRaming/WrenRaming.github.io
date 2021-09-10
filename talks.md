@@ -3,7 +3,7 @@ layout: page
 title: talks
 description: Karl Broman's talks
 ---
-
+<!--
 ### 2021
 
 
@@ -1531,7 +1531,11 @@ Public Health](http://www.jhsph.edu) (_Dec 13_)
 
 Human crossover interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/yale.pdf)
-<!--[![video](icons16/video-icon.png)](http://images.main.uab.edu/isoph/PresenterOne/HumanCrossoverInterference/rnhigh.ram)--> <br/>
+-->
+<!--[![video](icons16/video-icon.png)](http://images.main.uab.edu/isoph/PresenterOne/HumanCrossoverInterference/rnhigh.ram)--> 
+<!--
+<br/>
+
 [Section on Statistical Genetics](http://www.soph.uab.edu/statgenetics/Default.htm), University of Alabama,
 Birmingham (_Oct 9_)
 
@@ -1689,7 +1693,8 @@ Marshfield Medical Research Foundation, Marshfield, Wisconsin (_Jan 14_)
 Human meiotic interference
 [![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/interference.pdf)
 <br/>
-[Walter and Eliza Hall Institute for Medical Research](http://www.wehi.edu.au/),
+[Walter and Eliza Hall Institute for Medical Research](
+http://www.wehi.edu.au/),
 Melbourne, Australia (_Nov 24_)
 
 Cleaning genotype data
@@ -1717,3 +1722,4 @@ Analysis of a T cell frequency assay
 [![pdf](icons16/pdf-icon.png)](https://kbroman.org/Talk_Pullman1996/pullman1996.pdf)
 <br/>
 WNAR, Pullman, Washington (_June_)
+-->
