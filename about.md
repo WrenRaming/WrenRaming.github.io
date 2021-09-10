@@ -14,7 +14,7 @@ Wren's current research focuses on thresholds in landscape evolution. He uses fi
 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/WrenRaming_CV.pdf)<br/>
-[google scholar](https://scholar.google.com/citations?hl=en&user=xRp1QZUAAAAJ&view_op=list_works&gmla=AJsN-F60tksYsM0dW6xlqFWXDx1V4isAotetpqbWRTRxISk2MRtUAiQJlghn06hTYNNQvVpcB_zrGdLv58YKveWsfl7psjUiR-1jaRkvTvGk7_XZt2AVU6KphNAu_NkTBFBJlsPUQks_UF8-t1d_L21kd0fppwHOS-ZQinStUkDFFnmyv1-rUKkGPPn3IkF32gDopvX3ic9B&sciund=127128239743950041)<br/>
+[google scholar](https://scholar.google.com/citations?user=xRp1QZUAAAAJ&hl=en)<br/>
 
 
 
