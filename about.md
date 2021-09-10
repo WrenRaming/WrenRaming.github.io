@@ -1,0 +1,44 @@
+---
+layout: page
+title: about
+description: Wren Raming is a PhD candidate at the School of Earth and Space Exploration, Arizona State University
+---
+
+Wren Raming is a PhD candidate at the [School of Earth and Space Exploration](https://sese.asu.edu/), Arizona State University.
+
+Wren Raming received a BS in Economics at the University of Utah. After 7 years as a river guide and climbing bum, Wren returned to the University of Utah for a BS in Geology. Wren is currently in the PhD Geology program at [SESE](https://sese.asu.edu/) and is ABD, with expected defense in the summer of 2022.
+
+Wren's undergraduate work focused on understanding the natual and anthropogenic controls on the Bonneville Salt Flats. Undergraduate advisor:[Dr. Brenda Bowen](https://environment.utah.edu/brenda-bowen/)
+
+Wren's current research focuses on thresholds in landscape evolution. He uses field and remote sensed data to test theories of landscape evolution on the Hawaiian islands.
+
+
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/WrenRaming_CV.pdf)<br/>
+[google scholar](https://scholar.google.com/citations?hl=en&user=xRp1QZUAAAAJ&view_op=list_works&gmla=AJsN-F60tksYsM0dW6xlqFWXDx1V4isAotetpqbWRTRxISk2MRtUAiQJlghn06hTYNNQvVpcB_zrGdLv58YKveWsfl7psjUiR-1jaRkvTvGk7_XZt2AVU6KphNAu_NkTBFBJlsPUQks_UF8-t1d_L21kd0fppwHOS-ZQinStUkDFFnmyv1-rUKkGPPn3IkF32gDopvX3ic9B&sciund=127128239743950041)<br/>
+
+he/him
+
+---
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            Wren Raming<br/>
+        
+
+            <div id="hide_email">
+            Email: <code>lr</code><b>I</b><code>aming</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>as</code><b>leave
+            </b><code>u</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="../pics/WrenProfile.jpg">
+            <img src="../pics/WrenProfile.jpg"
+                  title="Wren Raming" alt="Karl Broman"/></a>
+        </div>
+    </div>
+</div>
