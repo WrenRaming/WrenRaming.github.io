@@ -1,6 +1,6 @@
 ## Wren Raming's website
 
-See [kbroman.org](https://wraming.org).
+See [wraming.org](https://wraming.org).
 
 ---
 
