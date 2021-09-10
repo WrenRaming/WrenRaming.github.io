@@ -8,9 +8,9 @@ Wren Raming is a PhD candidate in Geology at the [School of Earth and Space Expl
 
 Wren received a BS in Economics at the University of Utah in 2009. After several years as a river guide in the Grand Canyon Wren returned to the University of Utah for a BS in Geology. Wren is currently in the Geology PhD program at [SESE](https://sese.asu.edu/) and is ABD, with expected defense in the summer of 2022.
 
-Wren's undergraduate work focused on understanding the natual and anthropogenic controls on the Bonneville Salt Flats. Undergraduate advisor:[Dr. Brenda Bowen](https://environment.utah.edu/brenda-bowen/)
+Wren's undergraduate work focused on understanding the natual and anthropogenic controls on the Bonneville Salt Flats. Undergraduate advisor: [Dr. Brenda Bowen](https://environment.utah.edu/brenda-bowen/)
 
-Wren's current research focuses on thresholds in landscape evolution. He uses field and remote sensed data to test theories of landscape evolution on the Hawaiian islands. Advisor: [Kelin Whipple](https://isearch.asu.edu/profile/970462)
+Wren's current research focuses on thresholds in landscape evolution. He uses field and remote sensed data to test theories of landscape evolution on the Hawaiian islands. PhD Advisor: [Dr. Kelin Whipple](https://isearch.asu.edu/profile/970462)
 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/WrenRaming_CV.pdf)<br/>
