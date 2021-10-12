@@ -24,7 +24,7 @@ Thresholds in Knickzone Retreat Along the Nā Pali Coast, Kaua’i, Hawaii
 Physical Limits of Bedrock Incision
 
 #### 2017
-Bowen, B, Kipnis, E, **Raming, LW**(2017).Temporal Dynamics of Flooding, Evaporation, and Desiccation Cycles and Observations of Salt Crust Area Change at the Bonneville Salt Flats, Utah Geomorphology 299, 1-11.
+Bowen, B, Kipnis, E, **Raming, LW** (2017).Temporal Dynamics of Flooding, Evaporation, and Desiccation Cycles and Observations of Salt Crust Area Change at the Bonneville Salt Flats, Utah. Geomorphology 299, 1-11.
 [![doi](icons16/doi-icon.png)](https://doi.org/10.1016/j.geomorph.2017.09.036)
 
 ### <a name="chapters"></a> book chapters
