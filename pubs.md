@@ -15,13 +15,20 @@ description: Wren Raming's publications
 ### <a name="articles"></a>journal articles
 
 #### submitted
-#### 2021
-**Raming LW**, Whipple KX (2021)
-Thresholds in Knickzone Retreat Along the Nā Pali Coast, Kaua’i, Hawaii
 
 #### coming soon
-**Raming LW**, Whipple KX, Strauch, AM (2021)
-Physical Limits of Bedrock Incision
+**Raming L.W.**, Whipple K.X
+Physical Limits In Knickzone Retreat and Bedrock River Incision
+
+**Raming L.W.**, Whipple K.X
+The Role of Thresholds in Modulating Signals of Climate in The Landscape Evolution of the Hawaiian Islands. 
+
+
+
+#### 2022
+
+**Raming, L.W.**, Whipple, K.X, 2022. When knickzones limit upstream transmission of base-level fall: An example from Kauaʻi, Hawaiʻi. Geology.
+[![doi](icons16/doi-icon.png)](https://doi.org/10.1130/G50019.1)
 
 #### 2017
 Bowen, B, Kipnis, E, **Raming, LW** (2017).Temporal Dynamics of Flooding, Evaporation, and Desiccation Cycles and Observations of Salt Crust Area Change at the Bonneville Salt Flats, Utah. Geomorphology 299, 1-11.
