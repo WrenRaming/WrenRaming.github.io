@@ -4,9 +4,7 @@ title: about
 description: Wren Raming is a PhD candidate at the School of Earth and Space Exploration, Arizona State University
 ---
 
-Wren Raming obtained his PhD in Geology at the [School of Earth and Space Exploration](https://sese.asu.edu/), Arizona State University in December, 2022.
-
-Wren received a BS in Economics at the University of Utah in 2009. After several years as a river guide in the Grand Canyon, Wren returned to the University of Utah for a BS in Geology. 
+Wren Raming obtained his PhD in Geology at the [School of Earth and Space Exploration](https://sese.asu.edu/), at Arizona State University in December, 2022. Prior to his PhD research, Wren obtained a BS in Economics and Geology, and was a river guide in the Grand Canyon for over a decade.
 
 Wren's undergraduate work focused on understanding the natual and anthropogenic controls on the Bonneville Salt Flats. Undergraduate advisor: [Dr. Brenda Bowen](https://environment.utah.edu/brenda-bowen/)
 
