@@ -16,15 +16,15 @@ description: Wren Raming's publications
 
 #### submitted
 
+**Raming L.W.**, Whipple K.X, Strauch A.M.
+Limits to Knickzone Retreat and Bedrock River Incision on the Hawaiian Islands (_in revision at Earth Surface Processes and Landforms_)
+
+
 #### coming soon
 
 **Raming L.W.**, Whipple K.X
 The Role of Thresholds in Modulating Signals of Climate in The Landscape Evolution of the Hawaiian Islands. 
 
-#### 2023
-
-**Raming L.W.**, Whipple K.X, Strauch A.M.
-Limits to Knickzone Retreat and Bedrock River Incision on the Hawaiian Islands (_in revision at Earth Surface Processes and Landforms_)
 
 #### 2022
 
