@@ -17,7 +17,7 @@ description: Wren Raming's publications
 #### submitted
 
 **Raming L.W.**, Whipple K.X, Strauch A.M.
-Limits to Knickzone Retreat and Bedrock River Incision on the Hawaiian Islands (_in revision at Earth Surface Processes and Landforms_)
+Limits to Knickzone Retreat and Bedrock River Incision on the Hawaiian Islands [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/esp.5806)
 
 
 #### coming soon
