@@ -15,13 +15,15 @@ description: Wren Raming's publications
 ### <a name="articles"></a>journal articles
 
 #### coming soon
-**Raming, L.W.**, Vivoni, E.R., Mascaro, G., Cederstrom, C.J., Ko, A., Schreiner-McGraw, A.P., Cazares-Rodriguez, J.E.,
-Lizarraga-Celaya, C., (2024), tRIBS v5.2: A multi-resolution, parallel platform for tributary hydrology in forest applications.
 
 **Raming L.W.**, Whipple K.X
 The Role of Thresholds in Modulating Signals of Climate in The Landscape Evolution of the Hawaiian Islands. 
 
 #### 2024
+
+**Raming, L.W.**, Vivoni, E.R., Mascaro, G., Cederstrom, C.J., Ko, A., Schreiner-McGraw, A.P., Cazares-Rodriguez, J.E.,
+Lizarraga-Celaya, C., (2024), tRIBS v5.2: A multi-resolution, parallel platform for tributary hydrology in forest applications.[![doi](icons16/doi-icon.png)](https://joss.theoj.org/papers/10.21105/joss.06747)
+
 **Raming L.W.**, Whipple K.X, Strauch A.M.
 Limits to Knickzone Retreat and Bedrock River Incision on the Hawaiian Islands [![doi](icons16/doi-icon.png)](https://doi.org/10.1002/esp.5806)
 
